@@ -1,5 +1,3 @@
-## create new branch 'dev' for development
-
 ## 0.9.7 (in progress)
 
 - New install procedure for data: `--datatarget` allows installation of sub-sets
