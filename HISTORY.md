@@ -1,10 +1,4 @@
-test merge
-add more contents
-
-
-issue 53
-
-test branch
+## new branch 'dev' for development
 
 ## 0.9.7 (in progress)
 
