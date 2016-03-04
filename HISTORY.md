@@ -1,4 +1,4 @@
-## create new branch 'dev' for development
+## new branch 'dev' for development
 
 ## 0.9.7 (in progress)
 
